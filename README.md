@@ -5,3 +5,4 @@
     <img alt="boot log" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=575&pause=140&multiline=true&repeat=false&width=640&height=170&separator=%7C&color=000000&background=F6F8FA&lines=root%40albert%3A~%24+.%2Fboot%3B+whoami%7C%E2%94%9C%E2%94%80+%5Binit%5D+mounting+research+stack%7C%E2%94%9C%E2%94%80+%5Bok%5D+computational+displays+%280.42s%29%7C%E2%94%9C%E2%94%80+%5Bok%5D+generative+model+%280.31s%29%7C%E2%94%9C%E2%94%80+%5Bok%5D+computer+graphics+%280.28s%29%7C%E2%94%94%E2%94%80+%5B%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%5D+100+%25+exit+0%7Croot%40albert%3A~%24+:D">
   </picture>
 </p>
+
